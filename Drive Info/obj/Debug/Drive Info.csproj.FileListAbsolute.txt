@@ -1,0 +1,10 @@
+C:\Users\elev\source\repos\Drive Info\Drive Info\bin\Debug\Drive Info.exe.config
+C:\Users\elev\source\repos\Drive Info\Drive Info\bin\Debug\Drive Info.exe
+C:\Users\elev\source\repos\Drive Info\Drive Info\bin\Debug\Drive Info.pdb
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive Info.csproj.AssemblyReference.cache
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive_Info.Form1.resources
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive_Info.Properties.Resources.resources
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive Info.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive Info.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive Info.exe
+C:\Users\elev\source\repos\Drive Info\Drive Info\obj\Debug\Drive Info.pdb
